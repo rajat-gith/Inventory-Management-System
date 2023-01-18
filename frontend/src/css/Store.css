@@ -1,0 +1,86 @@
+ .store_preview {
+   margin: 10px;
+   margin-bottom: 3px;
+   margin-top: 0px;
+   padding-top: 5px;
+ }
+
+ .product_preview {
+   display: flex;
+   flex-direction: column;
+   margin-left: 10px;
+   margin-right: 10px;
+   background-color: #cac7c7;
+   padding: 2px;
+ }
+
+ .product_details {
+   display: flex;
+   flex-direction: row;
+   background-color: #f0f0f0;
+   padding: 10px;
+   padding-bottom: 5px;
+   position: relative;
+ }
+
+ .product_details h4 {
+   position: left;
+ }
+
+ .product_list {
+   width: 100%;
+ }
+
+ .A {
+   display: flex;
+   margin-left: auto;
+ }
+
+ .NA {
+   display: flex;
+   margin-left: auto;
+ }
+
+ .product_preview h4 {
+   padding-left: 5px;
+   padding-right: 5px;
+ }
+
+ .product_details button {
+   padding: 8px;
+   background-color: var(--main-theme);
+   color: white;
+   border: none;
+ }
+
+ .brands {
+   display: flex;
+   padding-left: 5px;
+ }
+
+ /*
+.brand_details {
+  display: flex;
+  flex-direction: column;
+  margin-left: 10px;
+
+}
+
+.store_details {
+  display: flex;
+  margin: 5px;
+  background: white;
+  padding: 5px;
+}
+
+.store_details h4 {
+  display: flex;
+  margin-right: 5px;
+  align-items: center;
+}
+
+.owner_details {
+  margin-top: 2px;
+  display: flex;
+
+} */

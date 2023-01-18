@@ -1,0 +1,39 @@
+.StoreDesc {
+  background-color: gray;
+}
+.desc {
+  padding: 10px;
+  margin-top: 4px;
+}
+.desc p {
+  margin-top: 5px;
+  width: inherit;
+  background-color: white;
+  padding: 10px;
+}
+.short_details {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+.short_details h5 {
+  font-weight: 400;
+  display: flex;
+  align-items: center;
+}
+
+.fields {
+  display: flex;
+  width: 100px;
+  flex-direction: row;
+}
+@media only screen and (max-width: 480px) {
+  .short_details {
+    flex-direction: column;
+  }
+  .fields {
+    display: flex;
+    flex-direction: row;
+  }
+}

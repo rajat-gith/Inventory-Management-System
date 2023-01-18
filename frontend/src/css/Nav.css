@@ -1,0 +1,25 @@
+.Nav {
+    display: flex;
+    width: 100%;
+    background-color: var(--main-theme);
+    
+}
+
+.Nav h2 {
+    color: white;
+    padding: 10px;
+}
+
+.link {
+    text-decoration: none;
+}
+.logout{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: flex-end;
+    color: #1779f1;
+}
+.logout p{
+    padding: 10px;
+}

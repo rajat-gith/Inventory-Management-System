@@ -1,0 +1,11 @@
+.brands_details{
+    display: flex;
+    flex-direction: column;
+    overflow-x: scroll;
+    max-height: 100px;
+    background: white;
+    margin: 2px;
+}
+.brands p{
+    margin: 2px;
+}

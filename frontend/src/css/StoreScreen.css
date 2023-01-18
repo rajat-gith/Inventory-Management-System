@@ -1,0 +1,13 @@
+.StoreScreen > button {
+  padding: 10px;
+  margin: 10px;
+  color: white;
+  background: black;
+}
+.StoreScreen >h3{
+  text-align: center;
+  margin: 10px;
+}
+.tagline{
+  display: flex;
+}
