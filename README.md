@@ -1,4 +1,5 @@
 <h2>INVENTORY MANAGEMENT SYSTEM<h2>
-<li>Used Django for Backend and React for complete frontend
-<li>ReduX Implementation, JWT Authentication, Filtering Searching functionality
-<li>Tech‑Stack React,Django,Redux,Django Rest Framework
+
+<li><p>Used Django for Backend and React for complete frontend</p>
+<li><p>ReduX Implementation, JWT Authentication, Filtering Searching functionality</p>
+<li><p>Tech‑Stack React,Django,Redux,Django Rest Framework</p>
